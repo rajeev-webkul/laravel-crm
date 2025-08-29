@@ -475,6 +475,7 @@ return [
                 'subject'          => 'Chủ đề',
                 'tax'              => 'Thuế',
                 'title'            => 'Báo giá',
+                'description' => 'Mô tả', 
             ],
         ],
 

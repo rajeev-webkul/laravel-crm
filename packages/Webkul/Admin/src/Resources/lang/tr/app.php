@@ -478,6 +478,7 @@ return [
                 'subject'          => 'Konu',
                 'tax'              => 'Vergi',
                 'title'            => 'Teklif',
+                'description' => 'Açıklama', 
             ],
         ],
 

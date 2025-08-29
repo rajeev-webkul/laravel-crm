@@ -476,6 +476,7 @@ return [
                 'subject'          => 'Subject',
                 'tax'              => 'Tax',
                 'title'            => 'Quote',
+                'description' => 'Description',
             ],
         ],
 

@@ -246,6 +246,16 @@
                                     {{ core()->formatDate($quote->expired_at, 'd-m-Y') }}
                                 </span>
                             </td>
+                            
+                            <td colspan="2" style="width: 100%; padding: 2px 18px;border:none;">
+                                <b>
+                                    @lang('admin::app.quotes.index.pdf.description'):
+                                </b>
+
+                                <span>
+                                    {{ $quote->description }}
+                                </span>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
